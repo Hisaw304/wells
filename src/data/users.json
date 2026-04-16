@@ -1,0 +1,361 @@
+[
+  {
+    "username": "john.collins92",
+    "email": "sharonlinstutzman@gmail.com",
+    "password": "Sharon!Secure",
+    "fullName": "John Collins",
+    "code": "482913",
+    "account": "4567",
+    "balance": 17345325.44,
+    "transactions": [
+      {
+        "name": "REAL ESTATE SALE",
+        "amount": 8000000.5,
+        "type": "credit",
+        "date": "2026-04-01"
+      },
+      {
+        "name": "INVESTMENT CREDIT",
+        "amount": 4050000.75,
+        "type": "credit",
+        "date": "2026-04-02"
+      },
+      {
+        "name": "BUSINESS REVENUE",
+        "amount": 5000000.25,
+        "type": "credit",
+        "date": "2026-04-03"
+      },
+      {
+        "name": "ZELLE RECEIVED",
+        "amount": 20000.4,
+        "type": "credit",
+        "date": "2026-04-04"
+      },
+      {
+        "name": "TRANSFER IN",
+        "amount": 50000.6,
+        "type": "credit",
+        "date": "2026-04-05"
+      },
+      {
+        "name": "ASSET FUNDING",
+        "amount": 120000.8,
+        "type": "credit",
+        "date": "2026-04-06"
+      },
+      {
+        "name": "PORTFOLIO CREDIT",
+        "amount": 85000.9,
+        "type": "credit",
+        "date": "2026-04-07"
+      },
+      {
+        "name": "APPLE STORE REFUND",
+        "amount": 1999.99,
+        "type": "credit",
+        "date": "2026-04-08"
+      },
+      {
+        "name": "AMAZON REFUND",
+        "amount": 320.5,
+        "type": "credit",
+        "date": "2026-04-09"
+      },
+      {
+        "name": "ASSET RETURN",
+        "amount": 18000.75,
+        "type": "credit",
+        "date": "2026-04-10"
+      }
+    ]
+  },
+
+  {
+    "username": "mary.johnson",
+    "password": "M@ry#Pass778!",
+    "fullName": "Mary Johnson",
+    "code": "739201",
+    "account": "7742",
+    "balance": 2890.55,
+    "transactions": [
+      {
+        "name": "PAYROLL",
+        "amount": 1800.0,
+        "type": "credit",
+        "date": "2026-03-01"
+      },
+      {
+        "name": "TRANSFER IN",
+        "amount": 400.0,
+        "type": "credit",
+        "date": "2026-03-02"
+      },
+      {
+        "name": "ZELLE RECEIVED",
+        "amount": 250.0,
+        "type": "credit",
+        "date": "2026-03-03"
+      },
+
+      {
+        "name": "ZARA",
+        "amount": -120.0,
+        "type": "debit",
+        "date": "2026-03-05"
+      },
+      {
+        "name": "SPOTIFY",
+        "amount": -10.99,
+        "type": "debit",
+        "date": "2026-03-06"
+      },
+      {
+        "name": "UBER",
+        "amount": -18.2,
+        "type": "debit",
+        "date": "2026-03-07"
+      },
+      {
+        "name": "AMAZON",
+        "amount": -75.0,
+        "type": "debit",
+        "date": "2026-03-08"
+      },
+      {
+        "name": "STARBUCKS",
+        "amount": -9.5,
+        "type": "debit",
+        "date": "2026-03-09"
+      },
+      {
+        "name": "TARGET",
+        "amount": -52.1,
+        "type": "debit",
+        "date": "2026-03-10"
+      },
+      {
+        "name": "APPLE SUBSCRIPTION",
+        "amount": -4.99,
+        "type": "debit",
+        "date": "2026-03-11"
+      }
+    ]
+  },
+
+  {
+    "username": "alex.williams",
+    "password": "Al3x!StrongPwd",
+    "fullName": "Alex Williams",
+    "code": "615884",
+    "account": "6621",
+    "balance": 980.2,
+    "transactions": [
+      {
+        "name": "PAYROLL",
+        "amount": 900.0,
+        "type": "credit",
+        "date": "2026-03-01"
+      },
+      {
+        "name": "ZELLE RECEIVED",
+        "amount": 150.0,
+        "type": "credit",
+        "date": "2026-03-03"
+      },
+
+      {
+        "name": "NIKE",
+        "amount": -120.0,
+        "type": "debit",
+        "date": "2026-03-05"
+      },
+      {
+        "name": "UBER",
+        "amount": -25.0,
+        "type": "debit",
+        "date": "2026-03-06"
+      },
+      {
+        "name": "STARBUCKS",
+        "amount": -6.8,
+        "type": "debit",
+        "date": "2026-03-07"
+      },
+      {
+        "name": "TRANSFER OUT",
+        "amount": -200.0,
+        "type": "debit",
+        "date": "2026-03-08"
+      },
+      {
+        "name": "AMAZON",
+        "amount": -89.0,
+        "type": "debit",
+        "date": "2026-03-09"
+      },
+      {
+        "name": "NETFLIX",
+        "amount": -15.99,
+        "type": "debit",
+        "date": "2026-03-10"
+      },
+      {
+        "name": "TARGET",
+        "amount": -45.0,
+        "type": "debit",
+        "date": "2026-03-11"
+      },
+      {
+        "name": "APPLE",
+        "amount": -120.0,
+        "type": "debit",
+        "date": "2026-03-12"
+      }
+    ]
+  },
+
+  {
+    "username": "sara.anderson",
+    "password": "S@ra#2025Secure",
+    "fullName": "Sara Anderson",
+    "code": "928447",
+    "account": "9012",
+    "balance": 4120.75,
+    "transactions": [
+      {
+        "name": "PAYROLL",
+        "amount": 2500.0,
+        "type": "credit",
+        "date": "2026-03-01"
+      },
+      {
+        "name": "TRANSFER IN",
+        "amount": 600.0,
+        "type": "credit",
+        "date": "2026-03-03"
+      },
+
+      {
+        "name": "AMAZON",
+        "amount": -220.0,
+        "type": "debit",
+        "date": "2026-03-05"
+      },
+      {
+        "name": "APPLE STORE",
+        "amount": -999.0,
+        "type": "debit",
+        "date": "2026-03-06"
+      },
+      {
+        "name": "NETFLIX",
+        "amount": -15.99,
+        "type": "debit",
+        "date": "2026-03-07"
+      },
+      {
+        "name": "ZELLE SENT",
+        "amount": -300.0,
+        "type": "debit",
+        "date": "2026-03-08"
+      },
+      {
+        "name": "STARBUCKS",
+        "amount": -12.5,
+        "type": "debit",
+        "date": "2026-03-09"
+      },
+      {
+        "name": "TARGET",
+        "amount": -85.4,
+        "type": "debit",
+        "date": "2026-03-10"
+      },
+      {
+        "name": "UBER",
+        "amount": -18.0,
+        "type": "debit",
+        "date": "2026-03-11"
+      },
+      {
+        "name": "SPOTIFY",
+        "amount": -10.99,
+        "type": "debit",
+        "date": "2026-03-12"
+      }
+    ]
+  },
+
+  {
+    "username": "david.brown",
+    "password": "Dav!d#Safe990",
+    "fullName": "David Brown",
+    "code": "356719",
+    "account": "4477",
+    "balance": 720.4,
+    "transactions": [
+      {
+        "name": "PAYROLL",
+        "amount": 700.0,
+        "type": "credit",
+        "date": "2026-03-01"
+      },
+      {
+        "name": "ZELLE RECEIVED",
+        "amount": 120.0,
+        "type": "credit",
+        "date": "2026-03-02"
+      },
+
+      {
+        "name": "UBER",
+        "amount": -30.0,
+        "type": "debit",
+        "date": "2026-03-04"
+      },
+      {
+        "name": "AMAZON",
+        "amount": -45.0,
+        "type": "debit",
+        "date": "2026-03-05"
+      },
+      {
+        "name": "STARBUCKS",
+        "amount": -5.6,
+        "type": "debit",
+        "date": "2026-03-06"
+      },
+      {
+        "name": "NETFLIX",
+        "amount": -15.99,
+        "type": "debit",
+        "date": "2026-03-07"
+      },
+      {
+        "name": "TARGET",
+        "amount": -60.0,
+        "type": "debit",
+        "date": "2026-03-08"
+      },
+      {
+        "name": "TRANSFER OUT",
+        "amount": -100.0,
+        "type": "debit",
+        "date": "2026-03-09"
+      },
+      {
+        "name": "APPLE",
+        "amount": -80.0,
+        "type": "debit",
+        "date": "2026-03-10"
+      },
+      {
+        "name": "SPOTIFY",
+        "amount": -10.99,
+        "type": "debit",
+        "date": "2026-03-11"
+      }
+    ]
+  }
+]
