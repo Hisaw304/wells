@@ -86,6 +86,17 @@ const Dashboard = () => {
         </div>
       </div>
       <SecurityBanner />
+      {/* ===== WELCOME ===== */}
+      <div className="wf-welcome">
+        <h2>
+          Welcome,{" "}
+          <span>
+            {currentUser.fullName
+              ? currentUser.fullName.split(" ")[0]
+              : currentUser.username}
+          </span>
+        </h2>
+      </div>
 
       {/* ================= ACCOUNT ================= */}
       <div className="wf-account">

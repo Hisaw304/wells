@@ -1393,7 +1393,22 @@ body.modal-open {
   align-items: center;
   padding: 10px 14px;
 }
+/* ===== WELCOME ===== */
+.wf-welcome {
+  max-width: 1200px;
+  margin: 20px auto 10px;
+  padding: 0 16px;
+}
 
+.wf-welcome h2 {
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--wf-dark);
+}
+
+.wf-welcome span {
+  font-weight: 600;
+}
 /* ACCOUNT */
 .wf-account {
   background: var(--wf-white);

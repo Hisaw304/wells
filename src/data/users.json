@@ -1,16 +1,16 @@
 [
   {
-    "username": "john.collins92",
+    "username": "sharon.linstutzman92",
     "email": "sharonlinstutzman@gmail.com",
     "password": "Sharon!Secure",
-    "fullName": "John Collins",
+    "fullName": "Sharon Linstutzman",
     "code": "482913",
     "account": "4567",
-    "balance": 17345325.44,
+    "balance": 13345325.44,
     "transactions": [
       {
         "name": "REAL ESTATE SALE",
-        "amount": 8000000.5,
+        "amount": 2000000.5,
         "type": "credit",
         "date": "2026-04-01"
       },
@@ -27,13 +27,13 @@
         "date": "2026-04-03"
       },
       {
-        "name": "ZELLE RECEIVED",
+        "name": "CAPITAL DEPOSIT",
         "amount": 20000.4,
         "type": "credit",
         "date": "2026-04-04"
       },
       {
-        "name": "TRANSFER IN",
+        "name": "PRIVATE RESERVE CREDIT",
         "amount": 50000.6,
         "type": "credit",
         "date": "2026-04-05"
@@ -51,13 +51,13 @@
         "date": "2026-04-07"
       },
       {
-        "name": "APPLE STORE REFUND",
+        "name": "ASSET RETURN",
         "amount": 1999.99,
         "type": "credit",
         "date": "2026-04-08"
       },
       {
-        "name": "AMAZON REFUND",
+        "name": "RESERVE CREDIT",
         "amount": 320.5,
         "type": "credit",
         "date": "2026-04-09"

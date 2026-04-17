@@ -29,7 +29,6 @@ const Login = () => {
   return (
     <div className="login-page" style={{ backgroundImage: `url(${bg})` }}>
       <div className="login-container">
-        {/* ================= LOGIN FORM ================= */}
         <div className="login-form">
           <h2>Good evening</h2>
 
